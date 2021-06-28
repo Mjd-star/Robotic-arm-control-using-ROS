@@ -65,10 +65,10 @@
 
 28- roslaunch robot_arm_pkg check_motors.launch
 
- simulation 
+ #simulation 
 Run the following instruction to use gazebo Rivz
 
- ## roslaunch robot_arm_pkg check_motors.launch
+  roslaunch robot_arm_pkg check_motors.launch
  
 ![03d2e118-1eb8-4ee0-b1c7-beaccc35c62a](https://user-images.githubusercontent.com/85651071/123658386-5aeb3980-d83a-11eb-9c4c-7a15a6594c5c.jpg)
 ![43363915-c9ce-42d9-97c6-820fa658673b](https://user-images.githubusercontent.com/85651071/123658488-72c2bd80-d83a-11eb-9113-cb09e7e7f04d.jpg)
