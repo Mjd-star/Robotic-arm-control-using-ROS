@@ -1,15 +1,17 @@
  # Robotic-arm-control-using-ROS
- # install virtualBox
+ #1. install virtualBox
  
- # configure the virtualBox
+  Go to www.virtualbox.org and download the newest version of VirtualBox for OS you're using
+ #2. configure the virtualBox
  
- # installing ubunto 18.0 on virtualBox
+ #3. installing ubunto 18.0 on virtualBox
  
- # install Ros melodic
+ #4. install Ros melodic
  
- # install arduino robot arm packages
+ #5. install arduino robot arm packages
  
  these instructions in terminal
+ 
 https://s-m.com.sa/ros.txt
 
  # simulation 
