@@ -8,6 +8,8 @@
  # 3. installing ubunto 18.0 on virtualBox
  
  # 4. install Ros melodic
+ Configure your Ubuntu repositories to allow "restricted," "universe," and "multiverse." You can follow the Ubuntu guide for instructions on doing this.
+ http://wiki.ros.org/melodic/Installation/Ubuntu
  
  # 5. install arduino robot arm packages
  
