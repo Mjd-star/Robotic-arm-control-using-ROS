@@ -1,9 +1,14 @@
  # Robotic-arm-control-using-ROS
  install virtualBox
+ 
  configure the virtualBox
+ 
  installing ubunto 18.0 on virtualBox
+ 
  install Ros melodic
+ 
  install arduino robot arm packages
+ 
 1- these instructions in terminal
 
 2- sudo sh -c 'echo "deb http://packages.ros.org/ros/ubuntu $(lsb_release -sc) main" > /etc/apt/sources.list.d/ros-latest.list'
